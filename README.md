@@ -1,15 +1,5 @@
 # 🚀 Dockerized Node.js Web Application
 
-## 🌐 Live Application
-
-👉 **Open in your browser:**
-
-### 🔗 http://localhost:8080
-
-[![Open App](https://img.shields.io/badge/Open-App-blue?style=for-the-badge)](http://localhost:8080)
-
----
-
 ## 📌 Project Overview
 
 This project demonstrates how to containerize a simple Node.js application using Docker and run it locally.
